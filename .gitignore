@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+# Ignore EEG raw data
+*.fdt
+*.set
+*.edf
+*.bdf
+
+# Ignore JSON/TSV metadata if you want
+*.json
+*.tsv
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
