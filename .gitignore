@@ -4,7 +4,8 @@
 *.set
 *.edf
 *.bdf
-
+*ds004584-main
+*rEEG
 # Ignore JSON/TSV metadata if you want
 *.json
 *.tsv
