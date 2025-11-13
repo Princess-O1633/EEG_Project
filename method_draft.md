@@ -4,7 +4,7 @@ Author: Princess Otegbulu
 _________________________
 1. Dataset
 
-This study uses the OpenNeuro dataset ds004584 (version 1.0.0), which contains 64-channel EEG recordings collected during resting-state sessions under both eyes-open and eyes-closed conditions. The sampling rate is 512 Hz.
+This study uses the OpenNeuro dataset ds004584 (version 1.0.0), which contains 64-channel EEG recordings collected during resting-state sessions under both eyes-open and eyes-closed conditions. The sampling rate is 500 Hz.
 Subjects include individuals diagnosed with Parkinson’s disease (PD) and age-matched healthy controls, with both cognitively normal and cognitively impaired participants. The eyes-open resting-state condition is used as the primary analysis focus.
 
 2. Experimental Groups
