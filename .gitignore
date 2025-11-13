@@ -6,6 +6,9 @@
 *.bdf
 *ds004584-main
 *rEEG
+*git-annex-installer (1).exe
+*anaconda_projects
+
 # Ignore JSON/TSV metadata if you want
 *.json
 *.tsv
