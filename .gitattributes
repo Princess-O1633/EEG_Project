@@ -1,0 +1,2 @@
+out_data/sample_BIDS/sub-01/ses-01/meg/*.fif filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
