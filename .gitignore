@@ -19,3 +19,6 @@
 # Ignore Python cache
 __pycache__/
 *.pyc
+echo "ds004584-main.zip" >> .gitignore
+echo "out_data/*.fif" >> .gitignore
+echo "out_data/sample_BIDS/**/*.fif" >> .gitignore
