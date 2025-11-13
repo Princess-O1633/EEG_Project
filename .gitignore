@@ -4,9 +4,9 @@
 *.set
 *.edf
 *.bdf
-*ds004584-main
-*rEEG
-*git-annex-installer (1).exe
+ds004584-main
+rEEG
+git-annex-installer (1).exe
 *anaconda_projects
 
 # Ignore JSON/TSV metadata if you want
@@ -22,3 +22,5 @@ __pycache__/
 echo "ds004584-main.zip" >> .gitignore
 echo "out_data/*.fif" >> .gitignore
 echo "out_data/sample_BIDS/**/*.fif" >> .gitignore
+out_data/sample_BIDS/sub-01/ses-01/meg/*.fif
+git-annex-installer (1).exe
