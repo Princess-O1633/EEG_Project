@@ -2248,11 +2248,8 @@ Not setting metadata
 261 matching events found
 No baseline correction applied
 0 projection items activated
-Using data from preloaded Raw for 261 events and 501 original time points ...
-    Rejecting  epoch based on EEG : ['Fp1', 'F3', 'F7', 'FC5', 'T7', 'TP9', 'CP5', 'P7', 'TP10', 'CP6', 'T8', 'FT10', 'FC6', 'F4', 'F8', 'Fp2', 'AF7', 'AF3', 'AFz', 'F5', 'FT7', 'FC3', 'C5', 'TP7', 'P5', 'TP8', 'C6', 'FT8', 'F6', 'AF8', 'AF4']
-    Rejecting  epoch based on EEG : ['Fp1', 'F3', 'F7', 'FC5', 'C3', 'T7', 'TP9', 'CP5', 'P7', 'TP10', 'CP6', 'T8', 'FT10', 'FC6', 'F4', 'F8', 'Fp2', 'AF7', 'AF3', 'AFz', 'F5', 'FT7', 'FC3', 'C5', 'TP7', 'P5', 'PO7', 'TP8', 'C6', 'FC4', 'FT8', 'F6', 'AF8', 'AF4']
-    Rejecting  epoch based on EEG : ['Fp1', 'F7', 'FC5', 'T7', 'TP9', 'T8', 'FT10', 'FC6', 'F8', 'Fp2', 'AF7', 'F5', 'FT7', 'C5', 'TP7', 'TP8', 'C6', 'FT8', 'F6', 'AF8']
-    Rejecting  epoch based on EEG : ['Fp1', 'F7', 'AF7', 'FT7']
+
+
 4 bad epochs dropped
 Overwriting existing file.
 Overwriting existing file.
